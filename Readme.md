@@ -1,7 +1,7 @@
-# Личный проект «{{projectTitle}}»
+# Личный проект «Nёrds»
 
-* Студент: [{{userName}}]({{userProfile}}).
-* Наставник: `Неизвестно`.
+* Студент: [Александр Гельвет](https://htmlacademy.ru/profile/id1944067).
+* Наставник: `Discord/Solo`.
 
 ---
 
